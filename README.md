@@ -8,3 +8,5 @@ s = sum(num)
 
 # Print the result
 print("Sum of elements in the list:", s)
+#making changes 
+
